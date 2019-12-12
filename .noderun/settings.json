@@ -1,0 +1,13 @@
+{
+  "sequence": 13,
+  "template name": "Static Hello World",
+  "description": "Static HTML Hello World App",
+  "image": "/cloud/template-icons/html.png",
+  "app start": "hello.html",
+  "routes": {},
+  "template dir": "static-hello-world",
+  "current git repository": "",
+  "git repositories": [
+    ""
+  ]
+}
